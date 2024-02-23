@@ -66,7 +66,7 @@ This github repository is the source code of the supporting project for the STM3
 
 * [STM32CubeMX教程31 USB_DEVICE - HID外设_模拟键盘或鼠标](https://blog.csdn.net/lc_guo/article/details/135881001)
 
-......
+* ......
 
 ---
 
