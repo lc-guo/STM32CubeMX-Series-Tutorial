@@ -70,3 +70,8 @@ This github repository is the source code of the supporting project for the STM3
 
 ---
 
+For more content please visit my blog homepage
+
+* [OSnotes's CSDN blog](https://blog.csdn.net/lc_guo?type=blog)
+
+* [OSnotes's cnblogs](https://home.cnblogs.com/u/lc-guo)
