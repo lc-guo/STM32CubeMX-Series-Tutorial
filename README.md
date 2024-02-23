@@ -1,6 +1,6 @@
 # STM32CubeMX-Series-Tutorial
 
-该仓库为STM32CubeMX+STM32F4系列教程原始代码，下面是该系列教程所有链接
+This github repository is the source code of the supporting project for the STM32CubeMX Series Tutorials, The following are all CSDN links for this series of tutorials.
 
 ---
 
